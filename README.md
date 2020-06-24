@@ -5,9 +5,31 @@
   
 ## 🚀 Desafio 02
 
+O objetivo deste desafio é colocar em prática os principais conceitos de ReactJS. 
 
 ##  🤓 Conceitos importantes
-### ...
+### Componentes
+
+Conceito que deu vida ao react
+
+Dividir pedaços da aplicação em componentes! Conjunto isolado de html, css, js que consegue ser **reaproveitado** quantas vezes quisermos dentro da aplicação.
+
+Tudo dentro do React é um compenent. 
+
+- **JSX →** HTML dentro do Javascript (Javascript XML)
+
+### Propriedades
+
+Informações que podem ser passadas de um componente para outro.
+
+### Estado
+
+O estado de um componente React tem uma função muito simples e específica. Ele é uma propriedade do componente onde colocamos dados que, quando mudados, devem causar uma nova renderização.
+
+### Imutabilidade
+
+Conceito para garantir performance. Ser imutável quer dizer o seguinte: não podemos mutar variáveis, alterar o seu formato (adicionar, deletar...) de maneira direta, nós precisamos sempre reacriar aquela informação com as informações que queremos. 
+É esse conceito que levamos para o estado, pois não conseguimos alterar da maneira tradicional como era feito no javascript antigamente, apenas conseguimos alterar com o método useState.
 
 ## Funcionalidades da aplicação
 
