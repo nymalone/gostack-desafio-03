@@ -3,6 +3,8 @@
   🚀 Conceitos ReactJS 🚀
 </h1>
   
+#### If you need support with the content, go to my [Notion notes](https://www.notion.so/S01-Front-end-com-ReactJS-74930914ada4478c99da7d733795e90a)
+
 ## 🚀 Desafio 02
 
 O objetivo deste desafio é colocar em prática os principais conceitos de ReactJS. 
