@@ -1,4 +1,7 @@
 ![Screen Shot 2020-06-24 at 14 40 26](https://user-images.githubusercontent.com/54912285/85605620-b59af580-b628-11ea-9c7a-f318a42dbba3.png)
+
+<blockquote align="center">“Faça seu melhor, mas sempre com prazo de entrega”!</blockquote>
+
 <h1 align="center">
   🚀 Conceitos ReactJS 🚀
 </h1>
